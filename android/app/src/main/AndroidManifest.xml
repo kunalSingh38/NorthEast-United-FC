@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="nuf">
+    package="com.nuf.northeast_united_fc">
    <application
         android:label="northeast_united_fc"
         android:name="${applicationName}"
