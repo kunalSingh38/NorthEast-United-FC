@@ -7,11 +7,7 @@ project(runner LANGUAGES CXX)
 set(BINARY_NAME "northeast_united_fc")
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
-<<<<<<< HEAD
-set(APPLICATION_ID "com.nuf")
-=======
 set(APPLICATION_ID "com.nuf.northeast_united_fc")
->>>>>>> 17d6eed4a8edd92d30f75063f33833f7e12a3aeb
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
